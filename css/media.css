@@ -1,0 +1,870 @@
+
+
+/**************************** Responsive ****************************************/
+
+@media only screen and (min-width:270px) and (max-width:1200px){
+.icon-out {
+    background: #fff;
+    padding: 20px 0px;
+    width: 94%;
+    font-family: 'Raleway', sans-serif;
+    -webkit-box-shadow: 1px 1px 5px -2px rgba(0,0,0,0.54);
+    -moz-box-shadow: 1px 1px 5px -2px rgba(0,0,0,0.54);
+    box-shadow: 1px 1px 5px -2px rgba(0,0,0,0.54);
+    margin: 0px auto 90px;
+}
+}
+@media only screen and (min-width:1024px) and (max-width:1280px){
+	.side {
+    background-image: url("../images/top-nav-bg.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: auto 45px;
+    color: #fff;
+    float: right;
+    left: 50%;
+    padding: 3px 56px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+ul.nav.navbar-nav li {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0;
+    text-transform:none;
+}
+.side {
+    background-image: url("../images/top-nav-bg.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: auto 42px;
+    color: #fff;
+    float: right;
+    left: 50%;
+    padding: 3px 13px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+.special_feature_area {
+    padding: 147px 0 7px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 56px;
+    width: 100%;
+}
+#tile a{
+  padding: 20px 62px;
+}
+}/**************************** 1024 end ****************************************/
+@media only screen and (min-width:992px) and (max-width:1023px){
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    text-transform:none;
+}
+.side {
+    background:none;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: auto 42px;
+    color: #fff;
+    float: right;
+    left:50%;
+    padding: 3px 13px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+.side a
+{
+	color:#fff !important;
+	font-size:12px !important;
+}
+.navbar-header
+{
+	width:300px;
+}
+.finacial-text {
+    color: #373737;
+    font-size: 14px;
+    margin: auto;
+    text-align: center;
+    width: 97%;
+}
+.special_feature_area {
+    padding: 147px 0 26px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 60PX;
+    width: 100%;
+}
+}
+/**************************** 1024 end ****************************************/
+@media only screen and (min-width:980px) and (max-width:991px){
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+    text-transform:none;
+}
+.side {
+    background:none;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: auto 42px;
+    color: #fff;
+    float: right;
+    left: 25%;
+    padding: 3px 13px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+.side a
+{
+	color:#fff !important;
+	font-size:12px !important;
+}
+.navbar-header
+{
+	width:300px;
+}
+.finacial-text {
+    color: #373737;
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    width: 97%;
+}
+.special_feature_area {
+    padding: 147px 0 26px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 60PX;
+    width: 100%;
+}
+}
+/**************************** 980 end ****************************************/
+@media only screen and (min-width:768px) and (max-width:979px){
+  #tile a{
+    padding: 20px 275px;
+  }
+  .middle-divs{
+    display: inline-block;
+  }
+ul.nav.navbar-nav li {
+    font-size: 12px;
+    font-weight: 600;
+    margin: -12px 0 -8px;
+    text-transform: none;
+}
+.side {
+    background: rgba(0, 0, 0, 0) none no-repeat scroll right center / auto 42px;
+    color: #fff;
+    float: right;
+    left: 25%;
+    padding: 3px 13px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+.side a
+{
+	color:#fff !important;
+	font-size:11px !important;
+}
+.navbar-header {
+    width: 188px;
+}
+.logo {
+    background-image: url("../images/logo-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 112px;
+    float: left;
+    height: 81px;
+    margin: -2px 0 0;
+    padding: 0;
+    width: 118%;
+}
+.logo img {
+    margin: -15px 0 0 27px !important;
+    padding: 22px 10px 0 0;
+    width: 80%;
+}
+.special_feature_area {
+    padding: 144px 0px 0px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 76px;
+    width: 100%;
+}
+.timer p {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-bottom: 0;
+}
+}
+/**************************** 768 end ****************************************/
+@media only screen and (min-width:640px) and (max-width:767px){
+  #tile a{
+    padding: 20px 257px;
+  }
+  .middle-divs{
+    display: inline-block;
+  }
+ul.nav.navbar-nav li {
+    font-size: 12px;
+    font-weight: 600;
+    margin: -12px 0 -8px;
+    text-transform: none;
+}
+.side {
+    background: rgba(0, 0, 0, 0) none no-repeat scroll right center / auto 42px;
+    color: #fff;
+    float: right;
+    left: 0;
+    margin: 11px 0 0;
+    padding: 3px 0 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+button.navbar-toggle {
+    border: 0px;
+    float: none;
+    margin: 5px auto;
+}
+ul.nav.navbar-nav {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+button.navbar-toggle:hover
+{
+	background:transparent !important;
+	bolder:0px !important;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus
+{
+	background:none !important;
+	border:0px !important;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border:0px !important;
+}
+.button-hide {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    width: 100%;
+}
+.navbar {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    margin-bottom: 0;
+    position: relative;
+}
+.side a
+{
+	color:#000!important;
+	font-size:11px !important;
+}
+.navbar-header {
+    width: 136px;
+}
+.logo {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    height: 65px;
+    margin: -10px 0 0;
+    padding: 0;
+    width: 118%;
+}
+.logo img {
+    margin: -15px 0 0 5px !important;
+    padding: 25px 10px 0 0;
+    width: 95%;
+}
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 0 0;
+    text-align: center;
+    text-transform: none;
+}
+ul.nav.navbar-nav li:hover a:hover{
+    background: #fff;
+    color: #000!important;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 0;
+    width: 100%;
+}
+.special_feature_area {
+    padding: 138px 0 0;
+}
+.element {
+    border:0px;
+    padding: 17px 0;
+}
+.newsletter {
+    margin: 0;
+}
+.mb-30 {
+    color: #515251;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 33px 0 7px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 21px 6px 50px;
+    width: 100%;
+}
+.link-small {
+    font-size: 15px;
+}
+.right-element
+{
+	border:0px;
+}
+.left-footer {
+    margin: 0;
+    width: 100%;
+}
+.timer {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    font-family: "PT Sans Narrow",sans-serif;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+}
+}
+/**************************** 480 end ****************************************/
+@media only screen and (min-width:480px) and (max-width:639px){
+ul.nav.navbar-nav li {
+    font-size: 12px;
+    font-weight: 600;
+    margin: -12px 0 -8px;
+    text-transform: none;
+}
+.side {
+    background: rgba(0, 0, 0, 0) none no-repeat scroll right center / auto 42px;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    float: right;
+    left: 0;
+    margin: 11px 0 0;
+    padding: 8px 13px 0 8px;
+    position: absolute;
+    top: -27px;
+    z-index: 999999;
+}
+button.navbar-toggle {
+    border: 0px;
+    float: none;
+    margin: 5px auto;
+}
+ul.nav.navbar-nav {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+button.navbar-toggle:hover
+{
+	background:transparent !important;
+	bolder:0px !important;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus
+{
+	background:none !important;
+	border:0px !important;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border:0px !important;
+}
+.button-hide {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    width: 100%;
+}
+.navbar {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    margin-bottom: 0;
+    position: relative;
+}
+.side a
+{
+	color:#000!important;
+	font-size:11px !important;
+}
+.navbar-header {
+    width: 136px;
+}
+.logo {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    height: 65px;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 118%;
+}
+.side a
+{
+	color:#9a9a9a;
+}
+.logo img {
+    margin: -15px 0 0 5px !important;
+    padding: 25px 10px 0 0;
+    width: 95%;
+}
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 0 0;
+    text-align: center;
+    text-transform: none;
+}
+ul.nav.navbar-nav li:hover a:hover{
+    background: #fff;
+    color: #000!important;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 0;
+    width: 100%;
+}
+.special_feature_area {
+    padding: 138px 0 0;
+}
+.element {
+    border:0px;
+    padding: 17px 0;
+}
+.newsletter {
+    margin: 0;
+}
+.mb-30 {
+    color: #515251;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 33px 0 7px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 21px 6px 50px;
+    width: 100%;
+}
+.link-small {
+    font-size: 15px;
+}
+.right-element
+{
+	border:0px;
+}
+.left-footer {
+    margin: 0;
+    width: 100%;
+}
+.timer {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    font-family: "PT Sans Narrow",sans-serif;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+}
+i.fa.fa-search.searchbar {
+    margin: 5px 0 0;
+}
+#tile a{
+  padding: 20px 118px;
+}
+.middle-divs{
+  display: inline-block;
+}
+}
+@media only screen and (max-width:375px){
+  #tile a {
+    padding: 20px 79px !important;
+}
+.middle-divs{
+  display: inline-block;
+}
+}
+@media only screen and (max-width:360px){
+  #tile a{
+    padding: 20px 70px !important;
+  }
+  .middle-divs{
+    display: inline-block;
+  }
+}
+@media only screen and (max-width:320px){
+  #tile a{
+    padding: 20px 50px !important;
+  }
+  .middle-divs{
+    display: inline-block;
+  }
+}
+@media only screen and (min-width:640px){
+  #tile a{
+    padding: 20px 211px !important;
+  }
+
+}
+@media only screen and (min-width:1024px){
+  #tile a{
+    padding: 20px 62px !important;
+  }
+}
+/**************************** 480 end ****************************************/
+@media only screen and (min-width:320px) and (max-width:479px){
+  #tile a{
+    padding: 20px 97px;
+  }
+  .middle-divs{
+    display: inline-block;
+  }
+ul.nav.navbar-nav li {
+    font-size: 12px;
+    font-weight: 600;
+    margin: -12px 0 -8px;
+    text-transform: none;
+}
+.side {
+    background: rgba(0, 0, 0, 0) none no-repeat scroll right center / auto 42px;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    float: right;
+    left: 0;
+    margin: 11px 0 0;
+    padding: 8px 13px 0 8px;
+    position: absolute;
+    top: -27px;
+    z-index: 999999;
+}
+button.navbar-toggle {
+    border: 0px;
+    float: none;
+    margin: 5px auto;
+}
+ul.nav.navbar-nav {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+button.navbar-toggle:hover
+{
+	background:transparent !important;
+	bolder:0px !important;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus
+{
+	background:none !important;
+	border:0px !important;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border:0px !important;
+}
+.button-hide {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    width: 100%;
+}
+.navbar {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    margin-bottom: 0;
+    position: relative;
+}
+.side ul li a {
+    color: #000;
+    float: right;
+    font-size: 9px !important;
+    font-weight: 700;
+    margin: 16px 8px 5px 3px;
+    text-decoration: none;
+}
+i.fa.fa-search.searchbar {
+    margin: 5px 0 0;
+}
+.navbar-header {
+    width: 136px;
+}
+.logo {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    height: 65px;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 118%;
+}
+.side a
+{
+	color:#9a9a9a;
+}
+.logo img {
+    margin: -15px 0 0 5px !important;
+    padding: 25px 10px 0 0;
+    width: 95%;
+}
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 0 0;
+    text-align: center;
+    text-transform: none;
+}
+ul.nav.navbar-nav li:hover a:hover{
+    background: #fff;
+    color: #000!important;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 0;
+    width: 100%;
+}
+.special_feature_area {
+    padding: 138px 0 0;
+}
+.element {
+    border:0px;
+    padding: 17px 0;
+}
+.newsletter {
+    margin: 0;
+}
+.mb-30 {
+    color: #515251;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 33px 0 7px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 21px 6px 50px;
+    width: 100%;
+}
+.link-small {
+    font-size: 15px;
+}
+.right-element
+{
+	border:0px;
+}
+.left-footer {
+    margin: 0;
+    width: 100%;
+}
+}
+/**************************** 320 end ****************************************/
+@media only screen and (min-width:200px) and (max-width:319px){
+	.side {
+    background-image: url("../images/top-nav-bg.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: auto 45px;
+    color: #fff;
+    float: right;
+    left: 50%;
+    padding: 3px 56px 14px 8px;
+    position: absolute;
+    top: -9px;
+    z-index: 999999;
+}
+ul.nav.navbar-nav li {
+    font-size: 12px;
+    font-weight: 600;
+    margin: -12px 0 -8px;
+    text-transform: none;
+}
+.side {
+    background: rgba(0, 0, 0, 0) none no-repeat scroll right center / auto 42px;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    float: right;
+    left: 0;
+    margin: 11px 0 0;
+    padding: 8px 13px 0 8px;
+    position: absolute;
+    top: -27px;
+    z-index: 999999;
+}
+button.navbar-toggle {
+    border: 0px;
+    float: none;
+    margin: 5px auto;
+}
+ul.nav.navbar-nav {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+button.navbar-toggle:hover
+{
+	background:transparent !important;
+	bolder:0px !important;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus
+{
+	background:none !important;
+	border:0px !important;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border:0px !important;
+}
+.button-hide {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    width: 100%;
+}
+.navbar {
+    background: #fff none repeat scroll 0 0;
+    border: 0 none;
+    margin-bottom: 0;
+    position: relative;
+}
+.side ul li a {
+    color: #000;
+    float: right;
+    font-size: 9px !important;
+    font-weight: 700;
+    margin: 16px 8px 5px 3px;
+    text-decoration: none;
+}
+i.fa.fa-search.searchbar {
+    margin: 7px 0 0;
+}
+.navbar-header {
+    width: 136px;
+}
+.logo {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    height: 65px;
+    margin: 20px 0 0;
+    padding: 0;
+    width: 118%;
+}
+.side a
+{
+	color:#9a9a9a;
+}
+.logo img {
+    margin: -15px 0 0 5px !important;
+    padding: 25px 10px 0 0;
+    width: 95%;
+}
+ul.nav.navbar-nav li {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 0 0;
+    text-align: center;
+    text-transform: none;
+}
+ul.nav.navbar-nav li:hover a:hover{
+    background: #fff;
+    color: #000!important;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 75px 6px 0;
+    width: 100%;
+}
+.special_feature_area {
+    padding: 138px 0 0;
+}
+.element {
+    border:0px;
+    padding: 17px 0;
+}
+.newsletter {
+    margin: 0;
+}
+.mb-30 {
+    color: #515251;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 33px 0 7px;
+}
+.footer {
+    background: rgba(0, 0, 0, 0) url("..images/grey-bg.png") repeat scroll 0 0 / cover ;
+    color: #f7f7f7;
+    float: left;
+    font-family: "Raleway",sans-serif;
+    padding: 21px 6px 50px;
+    width: 100%;
+}
+.link-small {
+    font-size: 15px;
+}
+.right-element
+{
+	border:0px;
+}
+.left-footer {
+    margin: 0;
+    width: 100%;
+}
+.timer {
+    background: #2096d3 none repeat scroll 0 0;
+    float: left;
+    font-family: "PT Sans Narrow",sans-serif;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+}
+.middle-divs{
+  display: inline-block;
+}
+}
